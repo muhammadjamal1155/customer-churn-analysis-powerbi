@@ -48,7 +48,7 @@ The dataset contains telecom customer records including:
 
 ### Page 1 — Churn Overview & Reasons
 
-![Churn Overview Dashboard](screenshots/page1_churn_overview.png)
+![Churn Overview](page1_churn_overview.png)
 
 **Key highlights:**
 - Overall churn rate: **26.86%** (1,796 out of 6,687 customers churned)
@@ -60,7 +60,8 @@ The dataset contains telecom customer records including:
 
 ### Page 2 — International Data Charges & Data Plan Analysis
 
-![International Data and Data Plan Dashboard](screenshots/page2_data_plan.png)
+![Data Plan Analysis](International%20Data%20Charges%20%26%20Data%20Plan%20Analysis.png)
+
 
 **Key highlights:**
 - Average extra international charges: **$33.64**
@@ -72,7 +73,7 @@ The dataset contains telecom customer records including:
 
 ### Page 3 — Service Calls & Contract/Payment Analysis
 
-![Service Calls and Contract Analysis Dashboard](screenshots/page3_service_calls.png)
+![Service Calls Analysis](Service%20Calls%20%26%20ContractPayment%20Analysis.png)
 
 **Key highlights:**
 - Total customer service calls: **6,123** | Average per customer: **0.92**
@@ -84,7 +85,7 @@ The dataset contains telecom customer records including:
 
 ### Page 4 — Churn Rate by Contract Category & Payment Method
 
-![Churn Rate by Contract and Payment Dashboard](screenshots/page4_contract_payment.png)
+![Contract Payment](Churn%20Rate%20by%20Contract%20Category%20%26%20Payment%20Method.png)
 
 **Key highlights:**
 - Sum of customer service calls: **6,123** | Average: **0.92 per customer**
