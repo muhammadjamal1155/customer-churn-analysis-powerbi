@@ -48,7 +48,7 @@ The dataset contains telecom customer records including:
 
 ### Page 1 — Churn Overview & Reasons
 
-![Churn Overview Dashboard](<img width="1171" height="686" alt="image" src="https://github.com/user-attachments/assets/4cf7a39b-8eb9-4737-9f0b-4d8b971aca68" />
+![Churn Overview Dashboard](<img width="1171" height="682" alt="Screenshot 2026-05-23 160936" src="https://github.com/user-attachments/assets/38918572-27d4-465e-963e-b27a29e475e3" />
 )
 
 **Key highlights:**
@@ -61,7 +61,8 @@ The dataset contains telecom customer records including:
 
 ### Page 2 — International Data Charges & Data Plan Analysis
 
-![International Data and Data Plan Dashboard](screenshots/page2_data_plan.png)
+![International Data and Data Plan Dashboard](<img width="1171" height="659" alt="Screenshot 2026-05-23 161036" src="https://github.com/user-attachments/assets/bc24439a-1e15-4664-95a9-7cf7f329baf3" />
+)
 
 **Key highlights:**
 - Average extra international charges: **$33.64**
@@ -73,7 +74,9 @@ The dataset contains telecom customer records including:
 
 ### Page 3 — Service Calls & Contract/Payment Analysis
 
-![Service Calls and Contract Analysis Dashboard](screenshots/page3_service_calls.png)
+![Service Calls and Contract Analysis Dashboard](<img width="1170" height="654" alt="Screenshot 2026-05-23 161018" src="https://github.com/user-attachments/assets/eeca5777-e3b1-47ab-8796-444ab8ba1fe0" />
+)
+
 
 **Key highlights:**
 - Total customer service calls: **6,123** | Average per customer: **0.92**
@@ -85,7 +88,8 @@ The dataset contains telecom customer records including:
 
 ### Page 4 — Churn Rate by Contract Category & Payment Method
 
-![Churn Rate by Contract and Payment Dashboard](screenshots/page4_contract_payment.png)
+![Key Insights](<img width="1170" height="657" alt="Screenshot 2026-05-23 161049" src="https://github.com/user-attachments/assets/5906ea6f-d312-4796-9efe-3f17373c4aed" />
+)
 
 **Key highlights:**
 - Sum of customer service calls: **6,123** | Average: **0.92 per customer**
