@@ -48,7 +48,8 @@ The dataset contains telecom customer records including:
 
 ### Page 1 — Churn Overview & Reasons
 
-![Churn Overview Dashboard](screenshots/page1_churn_overview.png)
+![Churn Overview Dashboard](<img width="1171" height="686" alt="image" src="https://github.com/user-attachments/assets/4cf7a39b-8eb9-4737-9f0b-4d8b971aca68" />
+)
 
 **Key highlights:**
 - Overall churn rate: **26.86%** (1,796 out of 6,687 customers churned)
