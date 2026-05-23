@@ -118,23 +118,7 @@ The dataset contains telecom customer records including:
 git clone https://github.com/YOUR_USERNAME/customer-churn-analysis-powerbi.git
 ```
 
----
 
-## 📁 Repository Structure
-
-```
-customer-churn-analysis-powerbi/
-│
-├── README.md
-├── Customer_Churn_Analysis.pbix        # Main Power BI file
-├── data/
-│   └── churn_dataset.csv               # Source dataset
-└── screenshots/
-    ├── page1_churn_overview.png
-    ├── page2_data_plan.png
-    ├── page3_service_calls.png
-    └── page4_contract_payment.png
-```
 
 ---
 
@@ -150,7 +134,7 @@ This project is part of the **[Data Analyst in Power BI](https://www.datacamp.co
 
 I'm currently building my skills in data analytics through the DataCamp Power BI track. This project demonstrates my ability to work with real-world business data, build interactive dashboards, and extract actionable insights.
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-jamal-a08241240)
 
 ---
 
